@@ -11,4 +11,4 @@ Nuestra Software consta de una aplicación desarrollada en React Native. Llamada
 
 Usa librerias, importaciones y recursos como:  "react-native-linear-gradient", "react-native-paper", "react-native", "react",'@react-navigation/native' entre otros.
 
-Esperamos les guste nuestra priemra app en React Native.
+Esperamos les guste nuestra priemera app en React Native.
